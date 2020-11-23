@@ -1,0 +1,28 @@
+Sebut dan jelaskan jenis - jenis operator !
+
+=> Operator Pengerjaan (Assigment Operator)
+operator sama dengan (. Contoh : Maka “=” adalah operator pengerjaan yang akan memberikan nilai dari ungkapan kepada variabel .
+
+=> Operator Aritmatika
+operator untuk melakukan operasi aritmatika seperti penjumlahan, pengurangan, perkalian, pembagian, pangkat, dsb.
+
+=> Operator Peningkatan dan Penurunan
+Operator penaikan (++) berfungsi untuk menambahkan 1 nilai kepada nilai tujuan dan Operator penurunan (--) berfungsi untuk mengurangi 1 nilai pada nilai tujuan.
+
+=> Operator Bitwise
+operator khusus untuk menangani operasi logika bilangan biner dalam bentuk bit
+
+=> Operator Hubungan
+untuk membandingkan 2 buah nilai, apakah nilai tersebut sama besar, lebih kecil, lebih besar, dst.
+
+=> Operator Logika
+operator yang digunakan untuk membandingkan 2 kondisi logika, yaitu logika benar (TRUE) dan logika salah (FALSE)
+
+=> Operator Alamat (Pointer)
+operator yg menunjukkan alamat memori dari suatu variable dan digunakan untuk menunjukkan suatu pointer
+
+=> Operator Koma
+Operator ini biasanya digunakan untuk menggabungkan beberapa statement atau ungkapan dalam 1 baris kode program, yang proses perintahnya, berawal dari sebelah kiri koma ke sebelah kanan koma.
+
+=> Operator Gabungan
+operator untuk memasukkan suatu nilai ke dalam variabel.
