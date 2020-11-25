@@ -12,11 +12,11 @@ int main(){
     if(nilai_uts>=85 && nilai_uas >=85){
         grade = 'A';
     }else if(nilai_uts>=70 && nilai_uas >=70){
-        grade = 'A';
+        grade = 'B';
     }else if(nilai_uts>=55 && nilai_uas >=55){
-        grade = 'A';
+        grade = 'C';
     }else if(nilai_uts>=40 && nilai_uas >=40){
-        grade = 'A';
+        grade = 'D';
     }else if(nilai_uts<40 && nilai_uas <40){
         grade = 'E';
     }else{
